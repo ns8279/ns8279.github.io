@@ -10,7 +10,7 @@ HTML
 CSS
 
 # Preview
-# ![Alt text](./assets/images/read_me.png?raw=true "Title")?raw=true "Title")
+# ![Alt text](./assets/images/read_me.png?raw=true "Title")
 
 # Contribution
 Made by Nirupama Sundararaman
