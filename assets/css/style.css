@@ -199,7 +199,7 @@ header nav ul li a:hover {
 .item-2 {
       grid-column: 5 / span 2;
       grid-row: 1 / span 2;
-      background-image: url("../images/digital-marketing-meeting.jpg");
+      background-image: url("../images/preview.png");
       background-position: center;
       background-size: cover;
 }
